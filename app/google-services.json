@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543686560811",
+    "project_id": "cacomix-learn-5ceeb",
+    "storage_bucket": "cacomix-learn-5ceeb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543686560811:android:07dd64430f2f2f08202e6e",
+        "android_client_info": {
+          "package_name": "com.example.cacomixlearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfQIq4dPLmRKEgudIf2Pyz7xtJrMiYLik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
